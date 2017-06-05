@@ -9,3 +9,4 @@ Projects and Coding in Linux OS
 * <a href="LinuxShell/Bash/HrLoopingAndSkipping.md">Hr Looping And Skipping</a>
 * <a href="LinuxShell/Bash/HrAPersonalizedEcho.md">Hr A Personalized Echo</a>
 * <a href="LinuxShell/Bash/HrTheWorldOfNumbers.md">Hr The World Of Numbers</a>
+* <a href="LinuxShell/Bash/HrComparingNumbers.md">Hr Comparing Numbers</a>
