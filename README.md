@@ -16,3 +16,4 @@ Projects and Coding in Linux OS
 * <a href="LinuxShell/Bash/HrComputeTheAverage.md">Hr Compute The Average</a>
 >## 1.2 Text Processing
 * <a href="LinuxShell/TextProcessing/HrCut.md">Hr Cut</a>
+* <a href="LinuxShell/TextProcessing/HrHead.md">Hr Head</a>
