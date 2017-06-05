@@ -13,3 +13,4 @@ Projects and Coding in Linux OS
 * <a href="LinuxShell/Bash/HrGettingStartedWithConditionals.md">Hr Getting Started With Conditionals</a>
 * <a href="LinuxShell/Bash/HrMoreOnConditionals.md">Hr More On Conditionals</a>
 * <a href="LinuxShell/Bash/HrArithmeticOperations.md">Hr Arithmetic Operations</a>
+* <a href="LinuxShell/Bash/HrComputeTheAverage.md">Hr Compute The Average</a>
