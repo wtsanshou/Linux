@@ -11,3 +11,4 @@ Projects and Coding in Linux OS
 * <a href="LinuxShell/Bash/HrTheWorldOfNumbers.md">Hr The World Of Numbers</a>
 * <a href="LinuxShell/Bash/HrComparingNumbers.md">Hr Comparing Numbers</a>
 * <a href="LinuxShell/Bash/HrGettingStartedWithConditionals.md">Hr Getting Started With Conditionals</a>
+* <a href="LinuxShell/Bash/HrMoreOnConditionals.md">Hr More On Conditionals</a>
