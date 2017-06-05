@@ -10,3 +10,4 @@ Projects and Coding in Linux OS
 * <a href="LinuxShell/Bash/HrAPersonalizedEcho.md">Hr A Personalized Echo</a>
 * <a href="LinuxShell/Bash/HrTheWorldOfNumbers.md">Hr The World Of Numbers</a>
 * <a href="LinuxShell/Bash/HrComparingNumbers.md">Hr Comparing Numbers</a>
+* <a href="LinuxShell/Bash/HrGettingStartedWithConditionals.md">Hr Getting Started With Conditionals</a>
