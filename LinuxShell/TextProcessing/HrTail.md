@@ -15,7 +15,7 @@ tail -n 11 [filename]  # Last 11 lines
 tail -c 20 [filename]  # Last 20 characters  
 ```
 
-We can also specify a certain number of lines to be displayed and list multiple filenames as well. It may also be used to display a specified number of bytes from an input file. Click here for more details about using the tail command.
+We can also specify a certain number of lines to be displayed and list multiple filenames as well. It may also be used to display a specified number of bytes from an input file. Click <a href="http://www.linfo.org/tail.html">here</a> for more details about using the tail command.
 
 **Task**
 
