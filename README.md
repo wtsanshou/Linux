@@ -19,3 +19,4 @@ Projects and Coding in Linux OS
 * <a href="LinuxShell/TextProcessing/HrHead.md">Hr Head</a>
 * <a href="LinuxShell/TextProcessing/HrTail.md">Hr Tail</a>
 * <a href="LinuxShell/TextProcessing/HrTr.md">Hr Tr</a>
+* <a href="LinuxShell/TextProcessing/HrUniq.md">Hr Uniq</a>
