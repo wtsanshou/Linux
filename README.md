@@ -14,6 +14,8 @@ Projects and Coding in Linux OS
 * <a href="LinuxShell/Bash/HrMoreOnConditionals.md">Hr More On Conditionals</a>
 * <a href="LinuxShell/Bash/HrArithmeticOperations.md">Hr Arithmetic Operations</a>
 * <a href="LinuxShell/Bash/HrComputeTheAverage.md">Hr Compute The Average</a>
+* <a href="LinuxShell/Bash/HrAwk.md">Hr Awk</a>
+* <a href="LinuxShell/Bash/HrGrep.md">Hr Grep</a>
 >## 1.2 Text Processing
 * <a href="LinuxShell/TextProcessing/HrCut.md">Hr Cut</a>
 * <a href="LinuxShell/TextProcessing/HrHead.md">Hr Head</a>
