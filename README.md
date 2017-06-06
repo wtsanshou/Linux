@@ -16,6 +16,7 @@ Projects and Coding in Linux OS
 * <a href="LinuxShell/Bash/HrComputeTheAverage.md">Hr Compute The Average</a>
 * <a href="LinuxShell/Bash/HrAwk.md">Hr Awk</a>
 * <a href="LinuxShell/Bash/HrGrep.md">Hr Grep</a>
+* <a href="LinuxShell/Bash/HrSed.md">Hr Sed</a>
 >## 1.2 Text Processing
 * <a href="LinuxShell/TextProcessing/HrCut.md">Hr Cut</a>
 * <a href="LinuxShell/TextProcessing/HrHead.md">Hr Head</a>
@@ -23,3 +24,6 @@ Projects and Coding in Linux OS
 * <a href="LinuxShell/TextProcessing/HrTr.md">Hr Tr</a>
 * <a href="LinuxShell/TextProcessing/HrUniq.md">Hr Uniq</a>
 * <a href="LinuxShell/TextProcessing/HrPaste.md">Hr Paste</a>
+>## 1.3 Array
+* <a href="LinuxShell/Array/HrArray.md">Hr Array</a>
+* <a href="LinuxShell/Array/HrLonelyInteger.md">Hr Lonely Integer</a>
